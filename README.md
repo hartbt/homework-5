@@ -6,6 +6,8 @@ Also uses BootStrap and jQuery.
 
 <strong>Screenshot of site:</strong> <img src="Assets/screencapture-hartbt-github-io-homework-5-dayPlanner-2020-10-06-10_57_20.png">
 
+<strong>Link to site:</strong> https://hartbt.github.io/homework-5-dayPlanner/
+
 # **Installation**
 
 N/A
