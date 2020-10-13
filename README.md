@@ -42,4 +42,4 @@ Though this website was created by me, it was only done so using knowledge provi
 
 # **License**
 
-N/A
+MIT
